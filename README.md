@@ -63,13 +63,17 @@ In our above example suppose operating frequency is 9GHZ λ0=3.33CM.where c is v
 **HORN ANTENNA** 
 
 Beam voltage	:
+
 Beam current	 :
 
 **PARABOLICANTENNA**
 
 Beam voltage	:
+
 Beam current	 :
+
 Repeller voltage :
+
 	V1 : 
 
 **RESULT:**
