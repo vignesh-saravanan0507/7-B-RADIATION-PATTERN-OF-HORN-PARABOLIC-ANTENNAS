@@ -60,29 +60,25 @@ In our above example suppose operating frequency is 9GHZ λ0=3.33CM.where c is v
 
 **TABULATION:** 
 
-**HORN ANTENNA** 
-
-Beam voltage	:
-
-Beam current	 :
-
 **PARABOLICANTENNA**
 
-Beam voltage	:
+Beam voltage	: 235 V
 
-Beam current	 :
+Beam current	 : 164 mV
 
-Repeller voltage :
+Repeller voltage : 42 V
 
-	V1 : 
+![WhatsApp Image 2025-11-15 at 20 40 51_ac0e7fed](https://github.com/user-attachments/assets/48aa1797-15de-4f60-a62e-bde970f74dd0)
+![WhatsApp Image 2025-11-15 at 20 40 51_6814ede1](https://github.com/user-attachments/assets/5ac21b9a-4149-4510-a3cd-5cc8bc1dd413)
+
+V1: 1.00 V
 
 **RESULT:**
 
 Thus the polar pattern and the gain of a waveguide horn antenna and parabolicantenna was measured and plotted.
 
-Beamwidth of horn antenna :
+Beamwidth of parabolic antenna:	20°
 
-Beamwidth of parabolic antenna:		
+**CONCLUSION**:
 
-
-
+A new technique has been described that was microwane Uncutainty Framework to establish au determined with well-defined tranceablity parth for soL7 calibrations In addition, measurments results Correlated uncutaints. Repeated parses through the procus Yeilded repeatable magnitude and phaSE is measured.
